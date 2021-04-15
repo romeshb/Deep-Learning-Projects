@@ -1,4 +1,4 @@
-# Deep_Learning
+# Simple Cat and Dog Binary Classification Model, CNN Deep_Learning
 Deep_Learning_projects
 
 This is a small Deep learning project to classify Cats and Dogs.
